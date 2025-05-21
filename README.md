@@ -79,7 +79,8 @@ This project analyzes:
 
 ## 📸 Dashboard Preview
 
-![image](https://github.com/user-attachments/assets/27ae52ad-aa1c-4982-86f7-0e35c1482ec4)
+![image](https://github.com/user-attachments/assets/06a4714b-4834-4182-add2-d081989ea467)
+
 
 
 ---
